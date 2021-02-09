@@ -158,13 +158,18 @@ Throughout the programme I illustrated my strong verbal and written communicatio
                         <img src="images/project revamp.jpg" />
                     </div>
                     <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>My portfolio project</h3>
-                       <p>
-                           I forked a template from github then made changes via html,css, javascript and the gallery files.
-                       </p>
-                        <a href="#">View Project</a>
-                    </div>
+                    <div class="project shadow-large">
+                        <div class="project-image">
+                            <img src="images/project revamp.jpg" />
+                        </div>
+                        <!-- End .project-image -->
+                        <div class="project-info">
+                            <h3>Wild Rydes Serverless Web Application</h3>
+                            <p>
+                               As part of a workshop hosted by AWS, following a tutorial I built a static webpage on Amazon S3 with AWS Amplify. I also used Amazon Cognito to manage users and authentication. Additionally I built a RESTful API for backend processing using Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
+                            </p>
+                            <a href="https://github.com/aws-samples/aws-serverless-workshops">The Repository The Instructions Are In</a>
+                        </div>
                     <!-- End .project-info -->
                 </div>
             </div>
