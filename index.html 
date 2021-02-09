@@ -131,47 +131,53 @@ Throughout the programme I illustrated my strong verbal and written communicatio
     </div>
     <!-- End #education -->
 
-    <div id="projects" class="background-alt">
+     <div id="projects" class="background-alt">
         <h2 class="heading">Projects</h2>
         <div class="container">
             <div class="row">
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/project.jpg" />
+                    <img src="images/snake.png" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Python project</h3>
+                        <h3>Python Misc</h3>
                         <p>
-                            the premise of this project was to create a calculator with python code atleast 
-                            to standard in which it could perform basic functions such as; add, subtract, multiply
-                            and times.
+                            This repository contains different programs I designed for set tasks or for fun.
                         </p>
-                        <a href="https://github.com/noahesa/python-calculator-">View Project</a>
+                        <a href="https://github.com/noahesa/devportfolio">View Repository</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                  <div class="project-image">
+                  <img src="images/wild.png"/>
+                  </div>
+                  <!--End .project-image-->
+                    <div class="project-info">
+                        <h3>Wild Rydes Serverless Web Application</h3>
+                        <p>
+                           As part of a workshop hosted by AWS, following a tutorial I built a static webpage on Amazon S3 with AWS Amplify. I also used Amazon Cognito to manage users and authentication. Additionally I built a RESTful API for backend processing using Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
+                        </p>
+                        <a href="https://github.com/aws-samples/aws-serverless-workshops">The Repository The Instructions Are In</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                
+                 <div class="project no-image">
+                    <div class="project-info">
+                        <h3>My Personal Website</h3>
+                        <p>
+                            I forked a template from Ryan Fitzgerald on github and made changes to the index.html file, the scss style sheet, and images to accommodate my taste :) 
+                        </p>
+                        <a href="https://github.com/Mshohid/MShohidurRahman.io">This Websites Files</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
                 <!-- End .project -->
-
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="images/project revamp.jpg" />
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project shadow-large">
-                        <div class="project-image">
-                            <img src="images/project revamp.jpg" />
-                        </div>
-                        <!-- End .project-image -->
-                        <div class="project-info">
-                            <h3>Wild Rydes Serverless Web Application</h3>
-                            <p>
-                               As part of a workshop hosted by AWS, following a tutorial I built a static webpage on Amazon S3 with AWS Amplify. I also used Amazon Cognito to manage users and authentication. Additionally I built a RESTful API for backend processing using Amazon API Gateway, AWS Lambda and Amazon DynamoDB.
-                            </p>
-                            <a href="https://github.com/aws-samples/aws-serverless-workshops">The Repository The Instructions Are In</a>
-                        </div>
-                    <!-- End .project-info -->
-                </div>
             </div>
         </div>
     </div>
@@ -181,7 +187,7 @@ Throughout the programme I illustrated my strong verbal and written communicatio
         <h2 class="heading">Skills</h2>
         <ul>
             <li>AWS</li>
-            <li>Python</li>
+            <li>Python</li> 
             <li>Linux</li>
             <li>HTML</li>
             <li>CSS</li>
